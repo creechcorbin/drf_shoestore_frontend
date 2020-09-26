@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Worked alongside Peyton Glover
+
+link to backend repo: https://github.com/creechcorbin/drf_shoestore
+
 ## Available Scripts
 
 In the project directory, you can run:
